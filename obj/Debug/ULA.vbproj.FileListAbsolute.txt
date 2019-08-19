@@ -1,0 +1,12 @@
+C:\Users\Thiago\Desktop\Projeto ULA\ULA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Projeto ULA\ULA\obj\Debug\ULA.MDIPMenu.resources
+C:\Users\Thiago\Desktop\Projeto ULA\ULA\obj\Debug\ULA.Resources.resources
+C:\Users\Thiago\Desktop\Projeto ULA\ULA\obj\Debug\ULA.vbproj.GenerateResource.Cache
+C:\Users\Thiago\Desktop\Projeto ULA\ULA\bin\Debug\ULA.exe
+C:\Users\Thiago\Desktop\Projeto ULA\ULA\bin\Debug\ULA.pdb
+C:\Users\Thiago\Desktop\Projeto ULA\ULA\bin\Debug\ULA.xml
+C:\Users\Thiago\Desktop\Projeto ULA\ULA\obj\Debug\ULA.exe
+C:\Users\Thiago\Desktop\Projeto ULA\ULA\obj\Debug\ULA.xml
+C:\Users\Thiago\Desktop\Projeto ULA\ULA\obj\Debug\ULA.pdb
+C:\Users\Thiago\Desktop\Projeto ULA\ULA\obj\Debug\ULA.FrmCode.resources
+C:\Users\Thiago\Desktop\Projeto ULA\ULA\obj\Debug\ULA.FrmLeitura.resources
